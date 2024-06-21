@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello,%20I'm%20Ethan%20Tan!%20👋&fontSize=60&animation=fadeIn&fontAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello,%20I'm%20Code%20Star!%20👋&fontSize=60&animation=fadeIn&fontAlignY=50)
 
 ![divider1](https://github.com/kentaurse/kentaurse/blob/main/assests/images/divider1.png)
 
@@ -10,7 +10,8 @@
 ​
 <div>
   <p>
-    I'm a passionate Blockchain Developer and Project Manager. I thrive on working with innovative projects and excel in leading teams to achieve outstanding results.
+     I am a senior full-stack developer with over 10 years of experience in software development across various industries, with the five most recent years focused on MERN and Three.js.
+    I am well-respected among my clients as a skilled developer who truly understands the client infrastructure and pain points. What sets my apart is my ability to ramp up new technologies and her problem-solving skills quickly.  I thrive on new challenges and enjoys pushing herself to learn and grow.
   </p>
   
   <img alt='coding' align='right' height='300' src="https://github.com/kentaurse/kentaurse/blob/main/assests/images/coding.gif" />
