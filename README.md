@@ -86,16 +86,5 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F78518&multiline=true&random=false&width=650&height=100&lines=Don't+forget+to+star+the+repositories+you+like;and+follow+me+for+more+updates." alt="Typing SVG" />
 </div>
 
-<div align='center'>
-  <a href='https://visitcount.itsvg.in' >
-    <img src='https://visitcount.itsvg.in/api?id=kentaurse&icon=5&color=6' height='40' />
-  </a>
-  <a href='https://github.com/kentaurse' >
-    <img src='https://img.shields.io/github/followers/kentaurse.svg?style=flat&logo=castro&label=Follow' height='40' />
-  </a>
-  <a href='https://github.com/kentaurse?tab=repositories' >
-    <img src='https://img.shields.io/github/stars/kentaurse.svg?style=flat&logo=starship&logoColor=yellow&label=Star' height='40' />
-  </a>
-</div>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=Thank%20you%20for%20visiting%20Ethan%20Tan's%20profile!%20🤗​&fontSize=30&animation=fadeIn&fontAlignY=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=Thank%20you%20for%20visiting%20Code%20Star's%20profile!%20🤗​&fontSize=30&animation=fadeIn&fontAlignY=70)
