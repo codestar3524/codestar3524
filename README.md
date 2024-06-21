@@ -17,13 +17,12 @@
   <img alt='coding' align='right' height='300' src="https://github.com/kentaurse/kentaurse/blob/main/assests/images/coding.gif" />
 
   <ul>
-  <li>💼 <strong>Current Role</strong>: Blockchain Developer and Project Manager with a proven track record of delivering high-quality solutions.</li>
+  <li>💼 <strong>Current Role</strong>: Fullstack & Blockchain Developer and Project Manager with a proven track record of delivering high-quality solutions.</li>
   <li>👨‍💼 <strong>Team Leadership</strong>: Leading a talented team of developers, fostering collaboration and innovation.</li>
   <li>🌱 <strong>Currently Learning</strong>: Advanced smart contract development and decentralized finance (DeFi).</li>
   <li>💬 <strong>Expertise</strong>: Blockchain, Project Management, Full-stack Development. Open to new ideas and strategic insights.</li>
-  <li>📫 <strong>Contact</strong>: <a href="mailto:kentaurse0212@gmail.com"> kentaurse0212@gmail.com</a></li>
+  <li>📫 <strong>Contact</strong>: <a href="mailto:linhaung951228@gmail.com"> linhaung951228@gmail.com</a></li>
   <li>😄 <strong>Pronouns</strong>: he/him</li>
-  <li>⚡ <strong>Fun Fact</strong>: Traveled to over 30 countries and enjoy hiking.</li>
 </ul>
 
 </div>
